@@ -22,5 +22,11 @@ public class Main {
         System.out.println("a = " + a);
         System.out.println("b = " + b);
         double c = Double.parseDouble("356.89f");
+
+        Produto p1 = new Produto();
+        p1.idCodigo = 1;
+        p1.nome = "Heineken";
+        p1.valor = 3.89;
+        System.out.println(p1.toString());
     }
 }
