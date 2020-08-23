@@ -1,6 +1,0 @@
-package com.company;
-
-public enum Meses {
-    JANEIRO, FEVEREIRO, MARÇO, ABRIL, MAIO, JUNHO, JUNLHO,
-    AGOSTO, SETEMBRO, OUTUBRO, NOVEMBRO, DEZEMBRO
-}
