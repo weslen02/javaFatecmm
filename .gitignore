@@ -3,5 +3,5 @@
 
 # files configurations
 *.settings/*
-.idea/*
+*.idea/*
 *.iml
